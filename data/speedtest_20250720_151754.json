@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-07-20 15:17:54.653618",
+    "download_mbps": 246.14,
+    "upload_mbps": 149.78,
+    "ping_ms": 24.46,
+    "location": {
+        "latitude": -29.9178,
+        "longitude": -51.1836,
+        "city": "Canoas",
+        "isp": "Sebratel Tecnologia Ltda"
+    },
+    "server": {
+        "name": "Santa Maria",
+        "distance_km": 256.12
+    }
+}
